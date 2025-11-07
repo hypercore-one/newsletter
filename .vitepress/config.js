@@ -46,7 +46,7 @@ export default defineConfig({
         text: 'Newsletter',
         items: [
           { text: 'Overview', link: '/' },
-          { text: 'August 2025', link: '/august-2025' }
+          { text: 'November 7, 2025', link: '/november-7-2025' }
         ]
       },
       ...(getArchiveItems().length > 0 ? [{
